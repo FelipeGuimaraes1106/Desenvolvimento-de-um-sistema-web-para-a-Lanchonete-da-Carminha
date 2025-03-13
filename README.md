@@ -1,4 +1,4 @@
-
+..
 # Termo de Requisitos de Alto Nível
 
 ## Estudo de Caso: Digitalização e automatização da encomenda de produtos na Lanchonete Da Carminha
