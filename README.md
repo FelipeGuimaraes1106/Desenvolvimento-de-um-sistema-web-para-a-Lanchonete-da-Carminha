@@ -16,11 +16,11 @@ Este projeto tem como propósito criar e prototipar um sistema de software respo
 
 O principal desafio é criar um sistema de software responsivo para a Lanchonete da Carminha, que funcione perfeitamente tanto em smartphones quanto em computadores, garantindo uma gestão eficiente dos pedidos. Para alcançar esse objetivo, algumas etapas são essenciais:
 **Entender as Necessidades**
-> É crucial realizar uma análise detalhada das demandas específicas da lanchonete, garantindo que as funcionalidades indispensáveis para o gerenciamento de encomendas sejam contempladas. Isso inclui traduzir requisitos gerais em especificações técnicas claras, que servirão como base para o desenvolvimento do sistema.>
+ É crucial realizar uma análise detalhada das demandas específicas da lanchonete, garantindo que as funcionalidades indispensáveis para o gerenciamento de encomendas sejam contempladas. Isso inclui traduzir requisitos gerais em especificações técnicas claras, que servirão como base para o desenvolvimento do sistema.
 **Aperfeiçoar o Protótipo**
-> O protótipo inicial precisa ser ajustado para oferecer uma experiência de uso simples e prática. Isso demanda testes de usabilidade, coleta de opiniões de todas as partes envolvidas e melhorias contínuas, assegurando que a solução atenda às expectativas dos usuários finais.>
+O protótipo inicial precisa ser ajustado para oferecer uma experiência de uso simples e prática. Isso demanda testes de usabilidade, coleta de opiniões de todas as partes envolvidas e melhorias contínuas, assegurando que a solução atenda às expectativas dos usuários finais.
 **Planejar a Evolução do Sistema**
->  O projeto deve ser pensado de forma a acompanhar as mudanças no mercado e as novas necessidades da lanchonete. Isso envolve a criação de um planejamento estratégico, com marcos bem definidos e uma organização eficiente dos recursos, garantindo que o sistema continue evoluindo e entregando valor com o tempo.>
+ O projeto deve ser pensado de forma a acompanhar as mudanças no mercado e as novas necessidades da lanchonete. Isso envolve a criação de um planejamento estratégico, com marcos bem definidos e uma organização eficiente dos recursos, garantindo que o sistema continue evoluindo e entregando valor com o tempo.
 Em resumo, o desafio é desenvolver uma solução prática e fácil de usar, aperfeiçoar o protótipo por meio de análises e ajustes constantes, e assegurar que o sistema esteja preparado para crescer junto com as demandas da Lanchonete da Carminha
 .
 
