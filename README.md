@@ -1,17 +1,20 @@
 
 # Termo de Requisitos de Alto Nível
 
-## Estudo de Caso: Digitalização e automatização da encomenda de produtos na Lanchonete Da Carminha
+## Desenvolvimento de um sistema Web para a Lanchonete da Carminha
 
 <p align="center"><img src= "/Imagens/Logo.png"></p>
 
 <p align="center"> Figura 1 - Logo da empresa</p>
+## INTRODUÇÃO
+Este projeto tem como propósito criar e prototipar um sistema de software responsivo para a Lanchonete da Carminha, visando facilitar o gerenciamento de pedidos em dispositivos móveis e computadores. A iniciativa tem como meta digitalizar e automatizar as encomendas, tornando o processo mais eficiente e organizado, beneficiando tanto os clientes quanto a administração interna do estabelecimento .
 
-## 1.DESAFIO
+
+## DESAFIO
 
 Este estudo de caso busca idealizar e prototipar um sistema de software responsivo, acessível tanto em *smartphones* quanto em computadores, capaz de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O desafio consiste na digitalização e centralização das solicitações de encomendas, tornando o processo mais ágil e organizado, a fim de melhorar a experiência tanto dos clientes quanto da gestão interna.
 
-## 2.CONTEXTO
+## CONTEXTO
 
 Hoje, não é segredo, muito menos exagero, dizer que os aplicativos de celulares
 já fazem parte do dia a dia das pessoas. A adoção de ferramentas digitais no
@@ -49,9 +52,9 @@ produtividade e otimizar a gestão da lanchonete**. Soluções como essas
 são essenciais para manter a competitividade e se adaptar às demandas do
 consumidor moderno, que busca conveniência e agilidade no atendimento.
 
-## 3.WHY?
+## WHY?
 
-### 3.1.QUEM UTILIZARÁ O SISTEMA?
+### QUEM UTILIZARÁ O SISTEMA?
 
 Considerando o contexto da Zona da Mata de Minas Gerais, com foco na
 microrregião de Viçosa, os **potenciais usuários** do sistema incluem
@@ -68,7 +71,7 @@ organizam eventos, como aniversários, casamentos ou confraternizações,
 tendem a buscar soluções práticas e saborosas que atendam suas
 necessidades de forma eficiente.
 
-### 3.2.QUAIS SERIAM OS PROBLEMAS?
+### QUAIS SERIAM OS PROBLEMAS?
 
 Com base na identificação dos perfis, bem como dos potenciais usuários,
 estima-se que a maioria possua um **conhecimento técnico em informática de nível básico a intermediário**, o que pode gerar desafios relacionados
@@ -88,7 +91,7 @@ região, o que reforça a necessidade de otimização de performance para
 minimizar o consumo de dados e garantir o funcionamento adequado mesmo
 em redes de baixa velocidade.
 
-### 3.3.STORYTELLING
+### STORYTELLING
 
 Era uma tarde de uma sexta-feira movimentada na Lanchonete Da Carminha. O sol forte da
 cidade marcava o fim de mais um dia típico de funcionamento do estabelecimento, que abre
@@ -158,9 +161,9 @@ e maior controle sobre o fluxo de pedidos, permitindo que a equipe se
 concentre em outras atividades essenciais e impulsionando o crescimento da
 Lanchonete Da Carminha.
 
-## 4.WHO?
+## WHO?
 
-### 4.1.PERSONAS E MAPAS DE EMPATIA
+### PERSONAS E MAPAS DE EMPATIA
 
 As personas são ferramentas fundamentais para guiar o desenvolvimento de
 soluções mais alinhadas às necessidades reais dos usuários. Elas
@@ -196,7 +199,7 @@ soluções que realmente resolvam seus problemas e ofereçam uma
 experiência eficaz e satisfatória. Para isso, desenvolvemos mapas de
 empatia para cada uma das personas apresentadas:
 
-## 5.IDENTIDADE VISUAL - EMPRESA
+## IDENTIDADE VISUAL - EMPRESA
 
 A identidade visual do aplicativo desenvolvido para a Lanchonete Da Carminha
 foi projetada para **reforçar o reconhecimento da marca e criar uma experiência
@@ -218,7 +221,7 @@ dos anos com seus clientes**.
 <p align="center">Figura 6 - Tipografia</p> 
 
 
-### 5.1.WIREFRAME
+### WIREFRAME
 
 O wireframe desenvolvido para o sistema de gerenciamento da Lanchonete
 Da Carminha teve como objetivo **delinear a estrutura visual e funcional
@@ -285,7 +288,7 @@ Interface Inicial:<html><br></html>
 Interface do carrinho e formas de pagamento:
 <img src= "/Imagens/PrototipoPC_02.png">
 
-### 5.2.PROTÓTIPO DE ALTA FIDELIDADE
+### PROTÓTIPO DE ALTA FIDELIDADE
 
 Utilizamos o Figma como ferramenta para criação deste protótipo para
 **tornar o Wireframe funcional e verificar correções** que seriam feitas
@@ -300,7 +303,7 @@ entrar neste link no canto superior direito haverá um ícone para
 maximizar a tela, clique neste ícone para que o protótipo fique melhor
 utilizável).***
 
-### 5.3.APRESENTAÇÃO AO CLIENTE
+### APRESENTAÇÃO AO CLIENTE
 
 1.**Realização de Pitch e teste de usabilidade:**
 
