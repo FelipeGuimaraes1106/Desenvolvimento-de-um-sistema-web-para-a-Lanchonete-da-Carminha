@@ -6,13 +6,23 @@
 <p align="center"><img src= "/Imagens/Logo.png"></p>
 
 <p align="center"> Figura 1 - Logo da empresa</p>
-## INTRODUÇÃO
+
+## INDRODUÇÃO
+
 Este projeto tem como propósito criar e prototipar um sistema de software responsivo para a Lanchonete da Carminha, visando facilitar o gerenciamento de pedidos em dispositivos móveis e computadores. A iniciativa tem como meta digitalizar e automatizar as encomendas, tornando o processo mais eficiente e organizado, beneficiando tanto os clientes quanto a administração interna do estabelecimento .
 
 
 ## DESAFIO
 
-Este estudo de caso busca idealizar e prototipar um sistema de software responsivo, acessível tanto em *smartphones* quanto em computadores, capaz de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O desafio consiste na digitalização e centralização das solicitações de encomendas, tornando o processo mais ágil e organizado, a fim de melhorar a experiência tanto dos clientes quanto da gestão interna.
+O principal desafio é criar um sistema de software responsivo para a Lanchonete da Carminha, que funcione perfeitamente tanto em smartphones quanto em computadores, garantindo uma gestão eficiente dos pedidos. Para alcançar esse objetivo, algumas etapas são essenciais:
+**Entender as Necessidades**
+> É crucial realizar uma análise detalhada das demandas específicas da lanchonete, garantindo que as funcionalidades indispensáveis para o gerenciamento de encomendas sejam contempladas. Isso inclui traduzir requisitos gerais em especificações técnicas claras, que servirão como base para o desenvolvimento do sistema.
+**Aperfeiçoar o Protótipo**
+> O protótipo inicial precisa ser ajustado para oferecer uma experiência de uso simples e prática. Isso demanda testes de usabilidade, coleta de opiniões de todas as partes envolvidas e melhorias contínuas, assegurando que a solução atenda às expectativas dos usuários finais.
+**Planejar a Evolução do Sistema**
+>  O projeto deve ser pensado de forma a acompanhar as mudanças no mercado e as novas necessidades da lanchonete. Isso envolve a criação de um planejamento estratégico, com marcos bem definidos e uma organização eficiente dos recursos, garantindo que o sistema continue evoluindo e entregando valor com o tempo.
+Em resumo, o desafio é desenvolver uma solução prática e fácil de usar, aperfeiçoar o protótipo por meio de análises e ajustes constantes, e assegurar que o sistema esteja preparado para crescer junto com as demandas da Lanchonete da Carminha
+.
 
 ## CONTEXTO
 
@@ -51,6 +61,11 @@ como controle de estoque e geração de relatórios, pode **aumentar a
 produtividade e otimizar a gestão da lanchonete**. Soluções como essas
 são essenciais para manter a competitividade e se adaptar às demandas do
 consumidor moderno, que busca conveniência e agilidade no atendimento.
+
+## CICLO DE VIDA
+O modelo estrela (ou Star Model) é uma abordagem iterativa e centrada no usuário para o ciclo de vida do desenvolvimento de software. Ele prioriza a flexibilidade e a adaptação contínua às necessidades e feedbacks dos usuários ao longo do processo de desenvolvimento. Esse modelo é particularmente eficaz em projetos com requisitos dinâmicos ou em que a validação constante com os usuários é essencial para o sucesso do sistema. Ao promover um desenvolvimento ágil e adaptativo, o modelo estrela se alinha às práticas modernas de engenharia de software e ao desenvolvimento centrado no usuário, garantindo que o produto final atenda de forma eficaz às expectativas e necessidades dos stakeholders.
+
+<p align="center"><img src= "/Imagens/Ciclo_Vida_Estrela.png"></p>
 
 ## WHY?
 
