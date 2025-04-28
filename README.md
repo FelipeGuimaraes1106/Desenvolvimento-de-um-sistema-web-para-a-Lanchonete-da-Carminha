@@ -1,4 +1,4 @@
-
+..
 # Termo de Requisitos de Alto Nível
 
 ## Desenvolvimento de um sistema Web para a Lanchonete da Carminha
