@@ -216,6 +216,128 @@ comportamentos, dores, expectativas e motivações, permitindo criar
 soluções que realmente resolvam seus problemas e ofereçam uma
 experiência eficaz e satisfatória. Para isso, desenvolvemos mapas de
 empatia para cada uma das personas apresentadas:
+# 📊 AVALIAÇÃO - Análise de Tarefa, Usuários e Função
+
+## 🔍 Análise Hierárquica de Tarefas (HTA)
+
+A **HTA (Hierarchical Task Analysis)** é uma metodologia utilizada para quebrar metas complexas em submetas e ações menores, ajudando a compreender as atividades realizadas pelos usuários ao interagir com um sistema.
+
+Essa técnica permite organizar as tarefas em uma estrutura hierárquica, facilitando a compreensão da sequência e da lógica por trás da execução de cada ação. As tarefas são representadas como uma árvore: tarefas simples permanecem inalteradas, enquanto as mais complexas são divididas em etapas até o nível mais básico.
+
+Também é possível destacar elementos como tarefas:
+- Opcionais
+- Alternativas
+- Repetitivas
+- Ubíquas  
+
+O processo de análise inclui:
+- Definição de objetivos  
+- Coleta de dados  
+- Construção de diagramas ou tabelas  
+
+Essa técnica é útil tanto para compreender o estado atual quanto para redesenhar sistemas, contribuindo para interfaces mais intuitivas e centradas no usuário.
+
+📄 **[Link para acessar o documento de Análise Hierárquica de Tarefas da Lanchonete da Carminha]**
+
+---
+
+## 🧩 Análise de Tarefas
+
+A equipe se baseou em conversas anteriores com os stakeholders e em requisitos coletados durante a fase de planejamento. Realizou-se uma reunião virtual com os principais interessados, discutindo como o sistema poderia facilitar o dia a dia e melhorar a experiência do cliente.
+
+Foi utilizada a técnica de decomposição das tarefas em níveis (HTA), o que ajudou a organizar os processos como:
+- Realizar pedidos  
+- Atualizar cardápio  
+- Atender o cliente  
+
+A análise revelou os principais fluxos de uso e apontou oportunidades para funcionalidades futuras que podem automatizar tarefas.
+
+---
+
+## 👥 Usuários
+
+Para garantir usabilidade e utilidade, os perfis dos usuários foram reformulados com dados realistas e específicos. Foram utilizados:
+- Personas  
+- Mapas de empatia  
+- Storytelling  
+
+Esses materiais foram validados por usuários reais (dona e funcionários da lanchonete), que reconheceram as representações como fiéis à realidade. Isso garantiu decisões de design mais centradas nas pessoas.
+
+---
+
+## ⚙️ Função
+
+A análise funcional identificou e definiu os papéis dos usuários no sistema, mapeando o fluxo de uso para:
+
+- Fazer pedidos  
+- Visualizar cardápio  
+- Registrar vendas  
+- Acompanhar status dos pedidos  
+
+As funções foram validadas em sessões práticas com os stakeholders. O feedback confirmou que o sistema atende bem ao contexto da lanchonete.
+
+---
+
+## ✅ Conclusão
+
+A análise completa de tarefas, usuários e funções permitiu:
+- Entendimento aprofundado da operação da lanchonete  
+- Desenvolvimento alinhado às expectativas reais  
+- Garantia de que o sistema é eficiente, organizado e intuitivo  
+
+---
+
+# 🛠 ENGENHARIA DE REQUISITOS
+
+## 🔍 Elicitação de Requisitos
+
+Realizada por meio de uma reunião com a cliente, que descreveu os principais entraves do sistema atual.  
+Os requisitos foram documentados a **nível de usuário**, com explicações simples e compreensíveis.
+
+📄 **[Documento de Requisitos a Nível de Usuário]**
+
+---
+
+## 🧪 Especificação de Requisitos
+
+Os requisitos do nível de usuário foram refinados para o **nível de sistema**, a fim de orientar os programadores na fase de desenvolvimento.
+
+📄 **[Documento de Requisitos a Nível de Sistema (site)]**  
+📄 **[Documento de Requisitos a Nível de Sistema (mobile)]**
+
+---
+
+## 📊 Diagramas
+
+Diagramas elaborados para fornecer uma visão clara do sistema:
+
+- **Diagrama de Casos de Uso:** Funcionalidades e interações do usuário  
+- **Diagrama de Classes:** Estrutura das classes e seus relacionamentos  
+- **Diagrama de Colaboração:** Interações entre objetos do sistema  
+- **Diagrama de Atividades:** Fluxo das atividades e transições  
+- **Diagrama de Sequência:** Troca de mensagens entre objetos  
+- **Diagrama de Estados:** Estados e eventos que afetam os objetos  
+
+📄 **[Link para visualizar os diagramas]**
+
+---
+
+## 🧾 AVALIAÇÃO - Especificação de Requisitos
+
+### ✔️ Validação de Requisitos com o Cliente
+
+Foi realizada uma reunião no modelo **workshop** para validação dos requisitos do sistema e do protótipo.
+
+A equipe apresentou os requisitos um a um, solicitando aprovação ou sugestões da cliente. O protótipo também foi exibido, e a cliente sugeriu melhorias voltadas à:
+
+- Navegabilidade  
+- Usabilidade  
+
+Essas sugestões foram documentadas, os requisitos foram refinados, e o sistema foi adaptado conforme o feedback recebido.
+
+---
+
+Se quiser, posso transformar tudo isso em um `README.md` completo ou dividir em arquivos separados como `avaliacao.md`, `engenharia_requisitos.md`, etc. Deseja isso?
 
 ## IDENTIDADE VISUAL - EMPRESA
 
