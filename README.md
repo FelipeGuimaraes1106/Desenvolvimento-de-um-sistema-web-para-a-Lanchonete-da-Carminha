@@ -1,12 +1,10 @@
 
 
-# Desenvolvimento de um sistema Web para a Lanchonete da Carminha
+# Sistema Web – Lanchonete da Carminha
 
 <p align="center"><img src= "/Imagens/Logo.png"></p>
 
 <p align="center"> Figura 1 - Logo da empresa</p>
-
-# 🍽️ Sistema Web – Lanchonete da Carminha
 
 ## 📌 Introdução
 
@@ -23,7 +21,6 @@ O sistema foi desenvolvido com base em tecnologias modernas e amplamente utiliza
 - **Frontend:**
   - Flutter Web
   - Figma (protótipos de alta fidelidade)
-  - TailwindCSS (para referências de estilo)
 
 - **Backend:**
   - MySQL (Modelagem relacional com DER)
