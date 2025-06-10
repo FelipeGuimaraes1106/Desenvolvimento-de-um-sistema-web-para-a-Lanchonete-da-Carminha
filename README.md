@@ -66,6 +66,21 @@ O sistema desenvolvido trouxe soluções eficazes aos problemas enfrentados no m
 👉 [Relatório Final do Projeto – Lanchonete da Carminha](???????)
 
 ---
+## 👥 Desenvolvedores
+
+- Felipe Guimarães Gouveia – [LinkedIn](http://linkedin.com/in/felipe-guimar%C3%A3es-122456183) | [GitHub](https://github.com/FelipeGuimaraes1106)
+  
+- Luana Fialho da Silva – [LinkedIn](http://www.linkedin.com/in/luana-fialho) | [GitHub](https://github.com/luana-fialho)
+  
+- João Henrique da Silva Oliveira Nunes Aguiar – [LinkedIn](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335) | [GitHub](https://github.com/JoaoHenriqueAguiar)
+  
+- Sávio Angelo Ferreira – [LinkedIn](https://www.linkedin.com/in/s%C3%A1vio-angelo-ferreira-188374335/) | [GitHub](https://github.com/Savio-Ferreira)
+    
+- Thiago de Paula Fernandes – [LinkedIn](http://www.linkedin.com/in/thiagopfernandes) | [GitHub](https://github.com/ThiagopFernandes01)
+   
+- João Pedro Fonseca Elias Lucas - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-fonseca-elias-512b9a278/) | [GitHub](https://github.com/Jonesevill)
+  
+- Guilherme Vieira Donadoni - [LinkedIn](https://www.linkedin.com/in/guilherme-donadoni-260363294/) | [GitHub](https://github.com/GuilhermeD02)
 
 
 Este projeto foi desenvolvido pelos alunos:
