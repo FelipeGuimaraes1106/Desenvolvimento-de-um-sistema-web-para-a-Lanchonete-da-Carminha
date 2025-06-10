@@ -1,7 +1,6 @@
 
-# Termo de Requisitos de Alto Nível
 
-## Desenvolvimento de um sistema Web para a Lanchonete da Carminha
+# Desenvolvimento de um sistema Web para a Lanchonete da Carminha
 
 <p align="center"><img src= "/Imagens/Logo.png"></p>
 
